@@ -1,6 +1,6 @@
 {
   "version": "1.5.0",
-  "merkle_root": "2549f05265579ac184df0e746b3acf5ebdcd104cd5c4c281f9bf5c7347cc12fb",
+  "merkle_root": "a45710e1b518254880f821750a206a2609f38506322ffd13a4c3236096289117",
   "files": [
     {
       "path": ".gitattributes",
@@ -34,8 +34,8 @@
     },
     {
       "path": "package.json",
-      "sha256": "6810fef8ef2809220cbf090c6bd69072b8439ef8f22eddf2826e08173c5cd796",
-      "leaf": "d048c241699dc2f2a61c3f658bbcc59bae700f4d797eccbe4f761800072d230e"
+      "sha256": "b9425a0562a7936c3854d488f3cea9ba72503d6fda5a6fcfac88d5bc809f0e61",
+      "leaf": "c0df1ac633eb1475e544a52c34f996f989a599a668547f0b523ab3524e9e84ce"
     },
     {
       "path": "public.gpg",
