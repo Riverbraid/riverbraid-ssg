@@ -1,0 +1,106 @@
+{
+  "version": "1.5.0",
+  "merkle_root": "2549f05265579ac184df0e746b3acf5ebdcd104cd5c4c281f9bf5c7347cc12fb",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "sha256": "5a0188f970af2e037db6c26fcb0beb47fcf0efa3b778001516cb0758c8be797a",
+      "leaf": "7ebfcd17586e0c01ec859bf84399643a4581a6cc306df8a48ccde573899f6c41"
+    },
+    {
+      "path": "build.sh",
+      "sha256": "4ab2ad6ae0f96728de16cf1ccecd329d5659c5a8d653242de54c135698c6634c",
+      "leaf": "3cf23952a97488bf538cec795597d06f1bc2c754ab20a9103b2f6dcb64496849"
+    },
+    {
+      "path": "formal/Extract.v",
+      "sha256": "781e4e2314ea0a447e6a62e2c19550a1b4669467e333fc70d8e0b5f9ab1db365",
+      "leaf": "6f78a98f9fda919ab4f24995ed1e6fb0c0d31276a05e7c894a952542a924f55b"
+    },
+    {
+      "path": "formal/Run.v",
+      "sha256": "dc350c253475952c3065f195f95aa187a087dd9ab88deede17b344f9daf504dd",
+      "leaf": "5e25074685a54da0338b43f64b30e6956720a3d719f75561d3a4f97ea3708f7e"
+    },
+    {
+      "path": "formal/VM.v",
+      "sha256": "1f0673417312c8e3fee6c1ef8d32c207a3a81cd1933cbe192ecb71b747c3cead",
+      "leaf": "c7c7ff79a7f12b2fbf1f15cd216fa4a201c7c00042f0ce9ff06772442ba912fc"
+    },
+    {
+      "path": "Makefile",
+      "sha256": "5ab35f637f7b98d59054ce41a0d3a70c8ac6d88f04d2893a10a6dcc5295db510",
+      "leaf": "0e97e99fe06a51f65f10544876d268db24bb29d1efc98d66c1c83c7b5ae9ce8d"
+    },
+    {
+      "path": "package.json",
+      "sha256": "6810fef8ef2809220cbf090c6bd69072b8439ef8f22eddf2826e08173c5cd796",
+      "leaf": "d048c241699dc2f2a61c3f658bbcc59bae700f4d797eccbe4f761800072d230e"
+    },
+    {
+      "path": "public.gpg",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "leaf": "8a0cfade6126b10da339392cae410b3cb6d4c50a864275e6457ab4b630ac397c"
+    },
+    {
+      "path": "README.md",
+      "sha256": "545133e415ee310c04ecff9f7a099e985d887e843e9d6fdc8657918eeb21a67c",
+      "leaf": "d55c884cd5cfe45690cfb7414329a1aac224176aaa27e05a7cf58ec394be0be6"
+    },
+    {
+      "path": "release_manifest.sha256",
+      "sha256": "7f12881924dc6cd8e7d1269c2ed3ca4879a2f8ad0f117bf0422c298cf67cd872",
+      "leaf": "d9004fc1b31207594cf75b4e722595cad71a228fbc125d052188257346a9cb62"
+    },
+    {
+      "path": "results/runtime_scaling.png",
+      "sha256": "de655a320979dc75c4de6c85f31f15743f965088469d9ca06553f7e8a37ea876",
+      "leaf": "7ece4c11f28ed70f91412a461feb426fd5bbdf0b010f2e2a923fb17293681a21"
+    },
+    {
+      "path": "results/runtime.csv",
+      "sha256": "4efeb115d2493f0f345f74f8d55240443fd34afc86eabba5a2c703bd26361d64",
+      "leaf": "fdda3978c0f02ec385da1bbf2d60ccc9cebc619b9dbc906995bcd8f1e4e97906"
+    },
+    {
+      "path": "riverbraid_vm",
+      "sha256": "549821524649706373d2f82e8e311e8615e9a45a06436c77d96e6c7a4560eb15",
+      "leaf": "6fc73090dc0e7853d945affaa07272d165d05e721cbd47990d6d013a43d5ec12"
+    },
+    {
+      "path": "riverbraid_vm.sha256",
+      "sha256": "70aa778fe144ff31591af68fbabebd3cac084282b2b4f9e596f8ec0afeab0986",
+      "leaf": "a9f8872a34ec2c7edba072acf7cd0578363b29eff6c60bbae367e9a4b589d56c"
+    },
+    {
+      "path": "run-vectors.cjs",
+      "sha256": "dacac55fa4846267c962d0e5a46d2ba3d81a40de7cd544cd25751407e788c818",
+      "leaf": "e448a8e65fd67fa0cbdbd24c67ce708edbf83bbd817e1ce9a5912f874e6e0458"
+    },
+    {
+      "path": "runtime/log.ml",
+      "sha256": "02ddbe929fba2734a0f3e276e9b9c2d60cd97ad899219a90598713371f8f4bbb",
+      "leaf": "972717e05486fc46cb1bd9b4960451ccbf057af754cf9ca07aa6cfdd66ade9e2"
+    },
+    {
+      "path": "runtime/main.ml",
+      "sha256": "5870bf599fa3d803623f0eca0223bbe9c45d143357d73e9e33645c9ebcd0a010",
+      "leaf": "8afe8f10737c1945e7550eb3c6c333dc8936d656e1bb44e1b2dd1589458a1f12"
+    },
+    {
+      "path": "runtime/parser.ml",
+      "sha256": "df8b584022284fee68285800c57d379f0cb17c09ea00943168be24d53563ef67",
+      "leaf": "c85d36ee00548e715d2676f1815941e9e7b86bb312b097548c9b6e48c7b40404"
+    },
+    {
+      "path": "scripts/benchmark.sh",
+      "sha256": "ca877eb0156c983e677bd692bbed29520dbc4cb6746b402c4bd7cb0428684ed1",
+      "leaf": "41ba0b2616b2f82f8edcd3642057929c2e0ae644e1163447814a218d409c6a22"
+    },
+    {
+      "path": "scripts/plot.py",
+      "sha256": "52e804e1537ca7db7ce0e07407d08e93b21ba9404aa2db56d628b7ec9cca0885",
+      "leaf": "a1868e2d4eecc61bec00304e00b00ca2f179edb504ce6749d4ef96be2d5ac432"
+    }
+  ]
+}
