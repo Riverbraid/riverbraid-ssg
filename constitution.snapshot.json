@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "2.1.0",
   "merkle_root": "a45710e1b518254880f821750a206a2609f38506322ffd13a4c3236096289117",
   "files": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "path": "formal/Extract.v",
-      "sha256": "781e4e2314ea0a447e6a62e2c19550a1b4669467e333fc70d8e0b5f9ab1db365",
+      "sha256": "781e4e2314ea0a447e6a62e2c2.1.0a1b4669467e333fc70d8e0b5f9ab1db365",
       "leaf": "6f78a98f9fda919ab4f24995ed1e6fb0c0d31276a05e7c894a952542a924f55b"
     },
     {
@@ -50,7 +50,7 @@
     {
       "path": "release_manifest.sha256",
       "sha256": "7f12881924dc6cd8e7d1269c2ed3ca4879a2f8ad0f117bf0422c298cf67cd872",
-      "leaf": "d9004fc1b31207594cf75b4e722595cad71a228fbc125d052188257346a9cb62"
+      "leaf": "d9004fc1b31207594cf75b4e722595cad71a228fbc2.1.052188257346a9cb62"
     },
     {
       "path": "results/runtime_scaling.png",
@@ -65,7 +65,7 @@
     {
       "path": "riverbraid_vm",
       "sha256": "549821524649706373d2f82e8e311e8615e9a45a06436c77d96e6c7a4560eb15",
-      "leaf": "6fc73090dc0e7853d945affaa07272d165d05e721cbd47990d6d013a43d5ec12"
+      "leaf": "6fc73090dc0e7853d945affaa07272d2.1.05e721cbd47990d6d013a43d5ec12"
     },
     {
       "path": "riverbraid_vm.sha256",
